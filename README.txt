@@ -2,12 +2,12 @@ KALKULATOR C++
 
 PROGRAM KALKULATOR SEDERHANA DENGAN MENGGUNAKAN BAHASA PEMROGRAMAN C++.
 
-CARA MENGINSTAL
+CARA MENGINSTAL DI LINUX DEBIAN
 
-$ git clone https://github.com/imsikunyuk/KALKULATOR.git
+[1] git clone https://github.com/imsikunyuk/KALKULATOR.git
 
-$ cd KALKULATOR/code
+[2] cd KALKULATOR/code
 
-$ g++ -o KALKULATOR kalkulator_sederhana.cpp
+[3] g++ -o KALKULATOR kalkulator_sederhana.cpp
 
-$ ./KALKULATOR
+[4] ./KALKULATOR
