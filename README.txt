@@ -1,6 +1,3 @@
 KALKULATOR C++
 
-Program kalkulator sederhana dengan menggunakan bahasa pemrograman C++.
-
-LICENSE
-
+PROGRAM KALKULATOR SEDERHANA DENGAN MENGGUNAKAN BAHASA PEMROGRAMAN C++.
