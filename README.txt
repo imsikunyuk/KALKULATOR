@@ -13,3 +13,13 @@ untuk menggunakan, menyalin, memodifikasi, menggabungkan, menerbitkan, mendistri
 salinan Perangkat Lunak, dan untuk mengizinkan orang-orang yang kepadanya Perangkat Lunak itu berada
 dilengkapi untuk melakukannya, tunduk pada kondisi berikut:
 
+Pemberitahuan hak cipta di atas dan pemberitahuan izin ini harus disertakan dalam semua
+salinan atau bagian substansial dari Perangkat Lunak.
+
+PERANGKAT LUNAK INI DISEDIAKAN "SEBAGAIMANA ADANYA", TANPA JAMINAN DALAM BENTUK APA PUN, TERSURAT MAUPUN
+TERSIRAT, TERMASUK NAMUN TIDAK TERBATAS PADA JAMINAN KELAYAKAN UNTUK DIPERDAGANGKAN,
+KEBUGARAN UNTUK TUJUAN TERTENTU DAN NON-PELANGGARAN. DALAM KEADAAN APA PUN,
+PENULIS ATAU PEMEGANG HAK CIPTA BERTANGGUNG JAWAB ATAS KLAIM, KERUSAKAN, ATAU LAINNYA
+TANGGUNG JAWAB, BAIK DALAM TINDAKAN KONTRAK, KESALAHAN ATAU LAINNYA, YANG TIMBUL DARI,
+KELUAR DARI ATAU SEHUBUNGAN DENGAN PERANGKAT LUNAK ATAU PENGGUNAAN ATAU TRANSAKSI LAIN DALAM
+PERANGKAT LUNAK.
