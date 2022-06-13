@@ -1,4 +1,7 @@
 +==========================+
 |== KALKULATOR SEDERHANA ==|
 +==========================+
-| PROGRAM KALKULATOR SEDERHANA DENGAN MENGGUNAKAN BAHASA PEMROGRAMAN C++. |
+| PROGRAM KALKULATOR SEDER |
+| HANA DENGAN MENGGUNAKAN  |
+| BAHASA PEMROGRAMAN C++.  |
++==========================+
