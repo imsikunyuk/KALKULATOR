@@ -1,1 +1,0 @@
-<p>KALKULATOR C++<br><br>Program kalkulator sederhana dengan menggunakan bahasa pemrograman C++<br><br><a href="https://github.com/imsikunyuk/kalkulator_c_ples_ples/blob/main/kalkulator_sederhana.cpp">SOURCE FILE</a><br><br></p>
