@@ -8,19 +8,3 @@ x PERKALIAN
 : PEMBAGIAN
 + PERTAMBAHAN
 - PENGURANGAN
-
-INSTALL
-
-1. apt-get upgrade && apt-get update
-
-2. apt-get install git
-
-3. apt-get install gcc
-
-4. git clone https://github.com/imsikunyuk/KALKULATOR.git
-
-5. cd KALKULATOR/cod
-
-6. gcc -o KALKULATOR kalkulator_sederhana.cpp
-
-7. ./KALKULATOR
