@@ -43,7 +43,7 @@ int main(){
 			cout << "| {0} STOP PROGRAM\n";
 			cout << "+-----------------------------\n";
 			nanya:
-			cout << "| MAU PILIH YANGA MANA: ";
+			cout << "| MAU PILIH YANGA MANA = ";
 			cin >> menu;
 			cout << "+-----------------------------\n";
 			while(true){
@@ -73,7 +73,7 @@ int main(){
 			cout << "| {0} STOP PROGRAM\n";
 			cout << "+-----------------------------\n";
 			nanya2:
-			cout << "| MAU PILIH YANGA MANA: ";
+			cout << "| MAU PILIH YANGA MANA = ";
 			cin >> menu;
 			cout << "+-----------------------------\n";
 			while(true){
@@ -103,7 +103,7 @@ int main(){
 			cout << "| {0} STOP PROGRAM\n";
 			cout << "+-----------------------------\n";
 			nanya3:
-			cout << "| MAU PILIH YANGA MANA: ";
+			cout << "| MAU PILIH YANGA MANA = ";
 			cin >> menu;
 			cout << "+-----------------------------\n";
 			while(true){
@@ -133,7 +133,7 @@ int main(){
 			cout << "| {0} STOP PROGRAM\n";
 			cout << "+-----------------------------\n";
 			nanya4:
-			cout << "| MAU PILIH YANGA MANA: ";
+			cout << "| MAU PILIH YANGA MANA = ";
 			cin >> menu;
 			cout << "+-----------------------------\n";
 			while(true){
