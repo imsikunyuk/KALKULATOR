@@ -7,3 +7,5 @@ DOWNLOAD:
 https://github.com/imsikunyuk/KALKULATORKU/archive/refs/tags/KALKULATORKU.zip
 
 https://github.com/imsikunyuk/KALKULATORKU/archive/refs/tags/KALKULATORKU.tar.gz
+
+"JANGAN LUPA UNTUK COMPILE TERLEBIH DAHULU"
